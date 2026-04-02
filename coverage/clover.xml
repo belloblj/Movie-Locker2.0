@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1775114089823" clover="3.2.0">
+  <project timestamp="1775114089823" name="All files">
+    <metrics statements="87" coveredstatements="56" conditionals="62" coveredconditionals="22" methods="34" coveredmethods="21" elements="183" coveredelements="99" complexity="0" loc="87" ncloc="87" packages="8" files="15" classes="15"/>
+    <package name="api">
+      <metrics statements="12" coveredstatements="3" conditionals="13" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="tmdb.js" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\tmdb.js">
+        <metrics statements="12" coveredstatements="3" conditionals="13" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="api.components.GenreFilter">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="GenreFilter.jsx" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\components\GenreFilter\GenreFilter.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="15" type="stmt"/>
+        <line num="16" count="16" type="stmt"/>
+      </file>
+      <file name="GenreFilter.module.css" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\components\GenreFilter\GenreFilter.module.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="api.components.MovieCard">
+      <metrics statements="5" coveredstatements="4" conditionals="8" coveredconditionals="5" methods="2" coveredmethods="1"/>
+      <file name="MovieCard.jsx" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\components\MovieCard\MovieCard.jsx">
+        <metrics statements="5" coveredstatements="4" conditionals="8" coveredconditionals="5" methods="2" coveredmethods="1"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="7" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="11" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="8" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+      </file>
+      <file name="MovieCard.module.css" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\components\MovieCard\MovieCard.module.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="api.components.MovieDetailsModal">
+      <metrics statements="24" coveredstatements="15" conditionals="18" coveredconditionals="3" methods="6" coveredmethods="4"/>
+      <file name="MovieDetailsModal.jsx" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\components\MovieDetailsModal\MovieDetailsModal.jsx">
+        <metrics statements="24" coveredstatements="15" conditionals="18" coveredconditionals="3" methods="6" coveredmethods="4"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="46" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+      </file>
+      <file name="MovieDetailsModal.module.css" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\components\MovieDetailsModal\MovieDetailsModal.module.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="api.components.MovieList">
+      <metrics statements="5" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <file name="MovieList.jsx" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\components\MovieList\MovieList.jsx">
+        <metrics statements="5" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="11" count="14" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="MovieList.module.css" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\components\MovieList\MovieList.module.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="api.components.Pagination">
+      <metrics statements="3" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="Pagination.jsx" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\components\Pagination\Pagination.jsx">
+        <metrics statements="3" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="12" count="13" type="stmt"/>
+      </file>
+      <file name="Pagination.module.css" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\components\Pagination\Pagination.module.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="api.components.SearchBar">
+      <metrics statements="6" coveredstatements="5" conditionals="7" coveredconditionals="5" methods="2" coveredmethods="2"/>
+      <file name="SearchBar.jsx" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\components\SearchBar\SearchBar.jsx">
+        <metrics statements="6" coveredstatements="5" conditionals="7" coveredconditionals="5" methods="2" coveredmethods="2"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="7" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="16" count="14" type="stmt"/>
+      </file>
+      <file name="SearchBar.module.css" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\components\SearchBar\SearchBar.module.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="api.pages.HomePage">
+      <metrics statements="29" coveredstatements="23" conditionals="10" coveredconditionals="9" methods="11" coveredmethods="7"/>
+      <file name="HomePage.jsx" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\pages\HomePage\HomePage.jsx">
+        <metrics statements="29" coveredstatements="23" conditionals="10" coveredconditionals="9" methods="11" coveredmethods="7"/>
+        <line num="14" count="13" type="stmt"/>
+        <line num="15" count="13" type="stmt"/>
+        <line num="16" count="13" type="stmt"/>
+        <line num="17" count="13" type="stmt"/>
+        <line num="19" count="13" type="stmt"/>
+        <line num="20" count="13" type="stmt"/>
+        <line num="21" count="13" type="stmt"/>
+        <line num="23" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="13" type="stmt"/>
+        <line num="27" count="13" type="stmt"/>
+        <line num="30" count="13" type="stmt"/>
+        <line num="31" count="6" type="stmt"/>
+        <line num="35" count="13" type="stmt"/>
+        <line num="36" count="8" type="stmt"/>
+        <line num="37" count="8" type="stmt"/>
+        <line num="39" count="8" type="stmt"/>
+        <line num="40" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="41" count="8" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="59" count="13" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+      </file>
+      <file name="HomePage.module.css" path="C:\Users\bello\Documents\BOW VALLEY\REACT SODV1253\Assignment 4\Movie-Locker2.0\Movie-Locker\src\api\pages\HomePage\HomePage.module.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>

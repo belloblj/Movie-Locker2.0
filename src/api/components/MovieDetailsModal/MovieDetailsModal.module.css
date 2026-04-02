@@ -1,0 +1,63 @@
+.backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.75);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  z-index: 1000;
+}
+
+.modal {
+  background: #111827;
+  padding: 2rem;
+  border-radius: 1rem;
+  max-width: 600px;
+  width: 100%;
+  color: #f3f4f6;
+  position: relative;
+}
+
+.close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: transparent;
+  border: none;
+  font-size: 2rem;
+  color: #f3f4f6;
+  cursor: pointer;
+}
+
+.title {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.year {
+  color: #9ca3af;
+}
+
+.rating {
+  margin-bottom: 1rem;
+}
+
+.overview {
+  margin-bottom: 1.5rem;
+}
+
+.subheading {
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.castList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.castList li {
+  margin-bottom: 0.3rem;
+}

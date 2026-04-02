@@ -1,0 +1,7 @@
+.layout {
+  min-height: 100vh;
+  background: #0f172a; /* deep slate blue */
+  padding: 2rem;
+  color: #f3f4f6;
+  font-family: system-ui, sans-serif;
+}
